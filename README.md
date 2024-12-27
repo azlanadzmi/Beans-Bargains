@@ -3,7 +3,7 @@
 ![ch 2,34](https://github.com/user-attachments/assets/0993eb4b-3f86-493c-b8b0-8a712e6a5951)
 
 
-This mind map chapters discusse about: Hardware, Software, and Information Systems. Below is a brief explanation of each chapter.
+This mind map chapters discusse about: Hardware, Software, and Information Systems. Below is a brief explanation of each chapter and the attachment is focus on the key point.
 
 ---
 
