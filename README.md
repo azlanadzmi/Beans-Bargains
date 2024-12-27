@@ -8,7 +8,7 @@ This repository provides a summary of three key chapters: Hardware, Software, an
 
 Hardware refers to the physical components that make up a computer system, allowing it to perform tasks and operations. Key aspects include:
 
-- **Input Devices:** Devices like keyboards, mice, and scanners that allow users to input data.
+- **Input Devices:** Devices like keyboards, mouse, and scanners that allow users to input data.
 - **Output Devices:** Tools such as monitors and printers that display or produce results.
 - **Storage Devices:** Hard drives, solid-state drives (SSD), and cloud storage solutions that ensure data is safely stored for immediate and long-term use.
 - **Processing Units:** The CPU and GPU, essential for processing instructions and handling graphical tasks.
