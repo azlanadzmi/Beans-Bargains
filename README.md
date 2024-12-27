@@ -1,2 +1,2 @@
-# Beans-Bargains
-Design Thinking Assignment Project 
+# Assignment 1 
+Mind Map Chapter 2,3 and 4
