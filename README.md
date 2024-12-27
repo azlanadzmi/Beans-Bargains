@@ -1,6 +1,9 @@
 # Chapters Overview
 
-This repository provides a summary of three key chapters: Hardware, Software, and Information Systems. Below is a brief explanation of each chapter.
+![ch 2,34](https://github.com/user-attachments/assets/0993eb4b-3f86-493c-b8b0-8a712e6a5951)
+
+
+This mind map chapters discusse about: Hardware, Software, and Information Systems. Below is a brief explanation of each chapter.
 
 ---
 
@@ -43,11 +46,3 @@ System analysis focuses on understanding user needs and defining system requirem
 Modern information systems leverage technologies like cloud computing, big data, and AI to provide smarter, more adaptive solutions.
 
 ---
-
-## About This Repository
-
-This repository contains summaries and detailed explanations of the chapters. It is designed for educational purposes and aims to provide insights into key concepts related to hardware, software, and information systems.
-
----
-
-&copy; 2024 Muhammad Azlan bin Adzmi
